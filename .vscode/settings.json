@@ -1,0 +1,12 @@
+{
+    "cSpell.words": [
+        "lemmatize",
+        "Lemmatizer"
+    ],
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    }
+}
